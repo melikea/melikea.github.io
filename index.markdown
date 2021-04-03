@@ -5,7 +5,7 @@
 layout: home
 ---
 
-![image](https://github.com/melikea/melikea.github.io/img/webimage.png "image")
+![image](https://github.com/melikea/melikea.github.io/blob/master/img/webimage.png "image")
 
 
 I am a PhD candidate at [Inria Nancy](https://www.inria.fr/en/centre-inria-nancy-grand-est) at [MFX](https://mfx.loria.fr/) team.
