@@ -19,7 +19,7 @@ My main research interests are implicit surfaces, ray tracing and geometry proce
 
 
 [<img src="./img/DinoTeaserSmall.png"  width="200" >](./img/DinoTeaser.png)
-<iframe width="100%" height="60" src="https://haltools.inria.fr/Public/afficheRequetePubli.php?auteur_exp=aydinlilar&amp;CB_auteur=oui&amp;CB_titre=oui&amp;CB_article=oui&amp;langue=Anglais&amp;tri_exp=annee_publi&amp;tri_exp2=typdoc&amp;tri_exp3=date_publi&amp;ordre_aff=TA&amp;Fen=Rech&amp;lang=fr&amp;Formate=Oui&amp;css=../css/VisuCondense.css"> </iframe>   
+<iframe width="100%" height="100" src="https://haltools.inria.fr/Public/afficheRequetePubli.php?auteur_exp=aydinlilar&amp;CB_auteur=oui&amp;CB_titre=oui&amp;CB_article=oui&amp;langue=Anglais&amp;tri_exp=annee_publi&amp;tri_exp2=typdoc&amp;tri_exp3=date_publi&amp;ordre_aff=TA&amp;Fen=Rech&amp;lang=fr&amp;Formate=Oui&amp;css=../css/VisuCondense.css"> </iframe>   
 
 <br>
 
