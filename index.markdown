@@ -27,42 +27,6 @@ My main research interests are implicit surfaces, ray tracing and geometry proce
 |Sahillioglu, Y., & Aydinlilar, M. (2018). Shape Interpolation via Multiple Curves. Pacific Graphics Posters. [https://doi.org/10.2312/PG.20181292](https://doi.org/10.2312/PG.20181292)|
 
 
-<?php
- $title = 'Publications';
- include("header.php");
-
- if (isset($_GET))
- {
- $author  = $_GET["author"];
- $keyword = $_GET["keyword"]; 
- $year    = $_GET["year"];
- } 
-
- $author_disp = $author;
- $author = str_replace(" ","%20",$author); /* replace spaces by %20 to pass over to haltools, fails otherwise */
-
- $fieldsize = 15;
-?>
-  
-<h1>LEAR Publications</h1>
-<form action='http://lear.inrialpes.fr/publications_lear.php' method='get'>
-<?php
-echo "Author: <input type='text' size='$fieldsize' name='author' value='$author_disp'> ";
-echo "Title word: <input type='text' size='$fieldsize' name='keyword' value='$keyword'> ";
-echo "Year: <input type='text' size='$fieldsize' name='year' value='$year'>   ";
-echo "<BUTTON type='submit'> Search </button>";
-  
-echo "</form>";
-echo "<div id=\"content\">";
-
-$team_subset = "labos_exp=2398;44942&auteurs_EPI=cordelia,schmid;jakob,verbeek;matthijs,douze;zaid,harchaoui;thomas,mensink;remi,ronfard;laurent,zwald;frederic,jurie";
-
-$url =  src="https://haltools.inria.fr/Public/afficheRequetePubli.php?auteur_exp=aydinlilar&amp;CB_auteur=oui&amp;CB_titre=oui&amp;CB_article=oui&amp;langue=Anglais&amp;tri_exp=annee_publi&amp;tri_exp2=typdoc&amp;tri_exp3=date_publi&amp;ordre_aff=TA&amp;Fen=Rech&amp;lang=fr&amp;Formate=Oui&amp;
-
-echo utf8_decode( file_get_contents($url));  
-
-?>
-
 </div> 
 </body>
 </html>
