@@ -13,19 +13,15 @@ My PhD project is titled *Implicit modeling for additive manufacturing* at [Univ
 
 My main research interests are implicit surfaces, ray tracing and geometry processing.
 
+<!---
 # Publications
+[comment][HAL](https://hal.archives-ouvertes.fr/) Listing:
 
-[HAL](https://hal.archives-ouvertes.fr/) Listing:
 
 
-[<img src="./img/DinoTeaserSmall.png"  width="200" >](./img/DinoTeaser.png)
+[comment][<img src="./img/DinoTeaserSmall.png"  width="200" >](./img/DinoTeaser.png)
 <iframe width="100%" height="200" style="border:none;" src="https://haltools.inria.fr/Public/afficheRequetePubli.php?auteur_exp=aydinlilar&amp;CB_auteur=oui&amp;CB_titre=oui&amp;CB_article=oui&amp;langue=Anglais&amp;tri_exp=annee_publi&amp;tri_exp2=typdoc&amp;tri_exp3=date_publi&amp;ordre_aff=TA&amp;Fen=Rech&amp;lang=fr&amp;Formate=Oui&amp;css=../css/VisuCondense.css"> </iframe>   
-
-
-|[<img src="./img/partbasedsmall.png " width="100%">](./img/partbased.png )| Aydınlılar, M., & Sahillioğlu, Y. (2021). Part-based data-driven 3D shape interpolation. Computer-Aided Design, 136, 103027. [https://doi.org/10.1016/j.cad.2021.103027](https://doi.org/10.1016/j.cad.2021.103027)|
-
-|Sahillioglu, Y., & Aydinlilar, M. (2018). Shape Interpolation via Multiple Curves. Pacific Graphics Posters. [https://doi.org/10.2312/PG.20181292](https://doi.org/10.2312/PG.20181292)|
-
+--->
 
 <main class="page-content" aria-label="Content">
       <div class="wrapper">
@@ -46,3 +42,13 @@ href="https://hal.inria.fr">HAL</a> open archive.
   </div>
 
 </article>
+
+
+
+
+|[<img src="./img/partbasedsmall.png " width="100%">](./img/partbased.png )| Aydınlılar, M., & Sahillioğlu, Y. (2021). Part-based data-driven 3D shape interpolation. Computer-Aided Design, 136, 103027. [https://doi.org/10.1016/j.cad.2021.103027](https://doi.org/10.1016/j.cad.2021.103027)|
+
+|Sahillioglu, Y., & Aydinlilar, M. (2018). Shape Interpolation via Multiple Curves. Pacific Graphics Posters. [https://doi.org/10.2312/PG.20181292](https://doi.org/10.2312/PG.20181292)|
+
+
+
