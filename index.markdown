@@ -17,7 +17,7 @@ My main research interests are implicit surfaces, ray tracing and geometry proce
 # Publications
 [HAL](https://hal.archives-ouvertes.fr/) Listing:
 
-<iframe id="pubIFrame" frameborder="0" width="100%" height="800px" border="1" src="https://haltools.inria.fr/Public/afficheRequetePubli.php?auteur_exp=aydinlilar&CB_auteur=oui&CB_titre=oui&CB_article=oui&CB_vignette=oui&langue=Anglais&tri_exp=annee_publi&tri_exp2=typdoc&tri_exp3=date_publi&ordre_aff=TA&Fen=Aff&css=../css/VisuGen.css"></iframe>
+<iframe id="pubIFrame" frameborder="0" width="100%" height="800px" border="1" src="https://haltools.inria.fr/Public/afficheRequetePubli.php?auteur_exp=aydinlilar&CB_auteur=oui&CB_titre=oui&CB_article=oui&CB_vignette=oui&langue=Anglais&tri_exp=annee_publi&tri_exp2=typdoc&tri_exp3=date_publi&ordre_aff=TA&Fen=Aff&css=https://haltools.inria.fr/css/VisuGen.css)"></iframe>
 
 [<img src="./img/DinoTeaserSmall.png"  width="200" >](./img/DinoTeaser.png)
 <iframe width="100%" height="200" style="border:none;" src="https://haltools.inria.fr/Public/afficheRequetePubli.php?auteur_exp=aydinlilar&amp;CB_auteur=oui&amp;CB_titre=oui&amp;CB_article=oui&amp;langue=Anglais&amp;tri_exp=annee_publi&amp;tri_exp2=typdoc&amp;tri_exp3=date_publi&amp;ordre_aff=TA&amp;Fen=Rech&amp;lang=fr&amp;Formate=Oui&amp;css=../css/VisuGen.css"> </iframe>   
