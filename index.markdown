@@ -25,3 +25,24 @@ My main research interests are implicit surfaces, ray tracing and geometry proce
 |[<img src="./img/partbasedsmall.png " width="100%">](./img/partbased.png )| Aydınlılar, M., & Sahillioğlu, Y. (2021). Part-based data-driven 3D shape interpolation. Computer-Aided Design, 136, 103027. [https://doi.org/10.1016/j.cad.2021.103027](https://doi.org/10.1016/j.cad.2021.103027)|
 
 |Sahillioglu, Y., & Aydinlilar, M. (2018). Shape Interpolation via Multiple Curves. Pacific Graphics Posters. [https://doi.org/10.2312/PG.20181292](https://doi.org/10.2312/PG.20181292)|
+
+
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">Publications</h1>
+  </header>
+
+  <div class="post-content">
+    <p>
+The list of publications below is automatically generated from the <a
+href="https://hal.inria.fr">HAL</a> open archive.
+</p>
+
+<iframe id="pubIFrame" frameborder="0" width="100%" height="800px" border="1" src="https://haltools.inria.fr/Public/afficheRequetePubli.php?auteur_exp=aydinlilar&CB_auteur=oui&CB_titre=oui&CB_article=oui&CB_vignette=oui&langue=Anglais&tri_exp=annee_publi&tri_exp2=typdoc&tri_exp3=date_publi&ordre_aff=TA&Fen=Aff&css=http://mfx.loria.fr/assets/main.css"></iframe>
+
+  </div>
+
+</article>
