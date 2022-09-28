@@ -11,7 +11,6 @@ My PhD project is titled *Implicit modeling for additive manufacturing* at [Univ
 
 My main research interests are implicit surfaces, ray tracing and geometry processing.
 
-
 # Publications
 [HAL](https://hal.archives-ouvertes.fr/) Listing:
 
