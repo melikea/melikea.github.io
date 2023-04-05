@@ -23,8 +23,8 @@ My main research interests are implicit surfaces, ray tracing and geometry proce
 |Sahillioglu, Y., & Aydinlilar, M. (2018). Shape Interpolation via Multiple Curves. Pacific Graphics Posters. [https://doi.org/10.2312/PG.20181292](https://doi.org/10.2312/PG.20181292)|
 
 <iframe
-    width="640"
-    height="480"
+    width="480"
+    height="360"
     src="https://www.youtube.com/embed/l3Tx99HHBzg"
     frameborder="0"
     allow="autoplay; encrypted-media"
@@ -33,8 +33,8 @@ My main research interests are implicit surfaces, ray tracing and geometry proce
 </iframe>
 
 <iframe
-    width="640"
-    height="480"
+    width="480"
+    height="360"
     src="https://www.youtube.com/embed/CFFOvIGC_YY"
     frameborder="0"
     allow="autoplay; encrypted-media"
@@ -44,7 +44,7 @@ My main research interests are implicit surfaces, ray tracing and geometry proce
 
 <iframe
     width="640"
-    height="480"
+    height="360"
     src="https://www.youtube.com/embed/c1tcX2VgJOk"
     frameborder="0"
     allow="autoplay; encrypted-media"
