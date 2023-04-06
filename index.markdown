@@ -11,7 +11,7 @@ I am a PhD student at [Inria Nancy](https://www.inria.fr/en/centre-inria-nancy-g
 
 My PhD project is titled *Implicit modeling for additive manufacturing* at [Université de Lorraine](https://www.univ-lorraine.fr/) advised by [Cédric Zanni](https://members.loria.fr/CZanni/) and [Sylvain Lefebvre](https://www.antexel.com/sylefeb/research). 
 
-I got my master's degree from [Orta Doğu Teknik Üniversitesi](https://www.metu.edu.tr/). I have worked with [Prof. Dr. Yusuf Sahillioğlu](https://user.ceng.metu.edu.tr/~ys/) on data-driven shape interpolation. 
+I got my bachelor's and master's degrees from [Orta Doğu Teknik Üniversitesi](https://www.metu.edu.tr/). During my master's I have worked with [Prof. Dr. Yusuf Sahillioğlu](https://user.ceng.metu.edu.tr/~ys/) on data-driven shape interpolation. 
 
 My main research interests are implicit surfaces, ray tracing and geometry processing.
 
