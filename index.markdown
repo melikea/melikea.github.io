@@ -53,3 +53,47 @@ My main research interests are implicit surfaces, ray tracing and geometry proce
     allowfullscreen
 >
 </iframe>
+
+
+ <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script src="plotly.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+ </head>
+ <body>
+    <div class="navbar"><span>Real-Time Chart with Plotly.js</span></div>
+    <div class="wrapper">
+
+        <div id="chart"></div>
+        <script>
+            function getData() {
+                return Math.random();
+            }  
+
+            Plotly.plot('chart',[{
+                y:[getData()],
+                type:'line'
+            }]);
+            
+            var cnt = 0;
+
+            setInterval(function(){
+
+                Plotly.extendTraces('chart',{ y:[[getData()]]}, [0]);
+                cnt++;
+                if(cnt > 500) {
+                    Plotly.relayout('chart',{
+                        xaxis: {
+                            range: [cnt-500,cnt]
+                        }
+                    });
+                }
+            },15);
+        </script>
+    </div>
+ </body>
+
+
+
+
+
