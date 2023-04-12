@@ -37,8 +37,7 @@ My main research interests are implicit surfaces, ray tracing and geometry proce
 <iframe
     width="480"
     height="360"
-    src="https://www.youtube.com/embed/CFFOvIGC_YY
-         "
+    src="https://www.youtube.com/embed/CFFOvIGC_YY;mute=1"
     frameborder="0"
     allow="autoplay; encrypted-media"
     allowfullscreen
