@@ -255,7 +255,6 @@ GEM
     unicode-display_width (1.7.0)
     wdm (0.1.1)
     zeitwerk (2.4.2)
-gem 'font-awesome-less'
 PLATFORMS
   x64-mingw32
 
