@@ -14,7 +14,7 @@ My PhD project is titled *Implicit modeling for additive manufacturing* at [Univ
 I got my bachelor's and master's degrees from [Computer Engineering](https://ceng.metu.edu.tr/) department of [Orta Doğu Teknik Üniversitesi](https://www.metu.edu.tr/). During my master's I worked with [Prof. Dr. Yusuf Sahillioğlu](https://user.ceng.metu.edu.tr/~ys/) on data-driven shape interpolation. 
 
 My main research interests are implicit surfaces, ray tracing and geometry processing.
-[CV](file://./CV_Melike_Aydinlilar) 
+[CV](file://./CV_Melike_Aydinlilar.pdf) 
 
 # Publications
 [HAL](https://hal.archives-ouvertes.fr/) Listing:
