@@ -15,7 +15,7 @@ I got my bachelor's and master's degrees from [Computer Engineering](https://cen
 
 My main research interests are implicit surfaces, ray tracing and geometry processing.
 
-[Resume](/CV_Melike_Aydinlilar.pdf "download")
+<i class="fa-solid fa-download"></i> [Resume](/CV_Melike_Aydinlilar.pdf "download")
 
 # Publications
 [HAL](https://hal.archives-ouvertes.fr/) Listing:
