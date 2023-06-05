@@ -5,10 +5,10 @@
 layout: home
 ---
 
-<img src="./img/webimage.png " width="150"> 
-<img src="./img/eg_short.jpg " width="150"> 
-<img src="./img/eg2.jpg " width="150"> 
-<img src="./img/siggraph_asia.jpg " width="150"> 
+<img src="./img/webimage.png " height="300"> 
+<img src="./img/eg_short.jpg " height="300"> 
+<img src="./img/eg2.jpg " height="300"> 
+<img src="./img/siggraph_asia.jpg " height="300"> 
 
 I am a PhD student at [Inria Nancy](https://www.inria.fr/en/centre-inria-nancy-grand-est) at [MFX](https://mfx.loria.fr/) team. 
 
