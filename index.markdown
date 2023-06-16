@@ -5,8 +5,7 @@
 layout: home
 ---
 
-<img src="./img/webimage.png " height="200"> 
-
+<img src="./img/webimage.png " height="200">
 <img src="./img/eg_short.jpg " height="200"> 
 <img src="./img/eg2.jpg " height="200"> 
 
