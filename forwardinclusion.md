@@ -5,6 +5,8 @@ layout: page
 ---
 <link rel="stylesheet"
         href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+
+        
 <style type="text/css" media="screen">
   .container {
     margin: 10px auto;
@@ -31,21 +33,21 @@ layout: page
 </div>
 
 
-  <section class="section" id="BibTeX">
+<section class="section" id="BibTeX">
     <div class="container is-max-desktop content">
       <h2 class="title">BibTeX</h2>
       <pre><code>@article{aydinlilar23,
-  TITLE = {{Forward inclusion functions for ray-tracing implicit surfaces}},
-  AUTHOR = {Aydinlilar, Melike and Zanni, C{\'e}dric},
-  URL = {https://inria.hal.science/hal-04129922},
-  JOURNAL = {{Computers and Graphics}},
-  PUBLISHER = {{Elsevier}},
-  VOLUME = {114},
-  PAGES = {190-200},
-  YEAR = {2023},
-  MONTH = Jun,
-  DOI = {10.1016/j.cag.2023.05.026}
-}</code></pre>
+                  TITLE = {Forward inclusion functions for ray-tracing implicit surfaces},
+                  AUTHOR = {Aydinlilar, Melike and Zanni, C{\'e}dric},
+                  URL = {https://inria.hal.science/hal-04129922},
+                  JOURNAL = {{Computers and Graphics}},
+                  PUBLISHER = {{Elsevier}},
+                  VOLUME = {114},
+                  PAGES = {190-200},
+                  YEAR = {2023},
+                  MONTH = Jun,
+                  DOI = {10.1016/j.cag.2023.05.026}
+        }</code></pre>
     </div>
   </section>
 
