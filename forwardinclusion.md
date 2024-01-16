@@ -30,7 +30,7 @@ layout: page
 
 <section class="section" id="BibTeX">
     <div class="container is-max-desktop content">
-      <h2 class="title">BibTeX</h2>
+      <h2 style="text-align:left" class="title">BibTeX</h2>
       <pre><code>@article{aydinlilar23,
                   TITLE = {Forward inclusion functions for ray-tracing implicit surfaces},
                   AUTHOR = {Aydinlilar, Melike and Zanni, C{\'e}dric},
