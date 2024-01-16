@@ -22,7 +22,7 @@ layout: page
   <h1>Forward inclusion functions for ray-tracing implicit surfaces</h1>
   <h2>Melike Aydinlilar, Cédric Zanni</h2>
 
-<img src="./img/web_teaser " height="200">
+<img src="./img/web_teaser.png" height="200">
   
   <h2><strong>Abstract</strong></h2>
   <p>Using Lipschitz bounds as linear inclusion functions, we show that both Lipschitz-based ray-tracing and bottom-up inclusion functions can be used together in the same framework. We propose asymmetrical forward inclusion functions that are exact at the query point and can better encode the function’s behavior on a given interval; therefore well suited for iterative processing. We show how to derive the linear and quadratic versions of these inclusion functions either by bounding the derivatives or building bottom-up inclusion functions and combining these two. We show our results on density fields defined from point primitives with compactly supported kernels and Gaussian kernels as well as Hermite radial basis functions. We demonstrate that our method provides noticeable improvement for grazing rays and transparent rendering.</p>
