@@ -1,5 +1,5 @@
 layout: page
-title: "Forward inclusion functions for ray-tracing implicit surfaces"
+title: "forwardinclusion"
 permalink: /publications/forwardinclusion
 
 
