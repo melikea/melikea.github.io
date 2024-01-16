@@ -20,6 +20,7 @@ layout: page
 
 <div class="container">
   <h1>Forward inclusion functions for ray-tracing implicit surfaces</h1>
+  <h2>Melike Aydinlilar, Cédric Zanni</h2>
   <p><strong> Forward inclusion functions for ray-tracing implicit surfaces  </strong></p>
   <p>Abstract</p>
 
