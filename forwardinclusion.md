@@ -1,4 +1,4 @@
-layout: page
+layout: default
 title: "forwardinclusion"
 permalink: /publications/forwardinclusion
 
