@@ -1,7 +1,7 @@
 ---
 title: ""
 permalink: /forwardinclusion/
-layout: page
+layout: default
 ---
 
 <style type="text/css" media="screen">
