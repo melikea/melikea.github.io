@@ -32,7 +32,6 @@ layout: default
 
 
 <section class="section" style="text-align:left" id="BibTeX">
-    <div class="container is-max-desktop content">
       <h2  style="text-align:left">BibTeX</h2>
       <pre><code style="text-align:left">@article{aydinlilar23,
         TITLE = {Forward inclusion functions for ray-tracing implicit surfaces},
@@ -46,7 +45,6 @@ layout: default
         MONTH = Jun,
         DOI = {10.1016/j.cag.2023.05.026}
         }</code></pre>
-    </div>
   </section>
 
 
