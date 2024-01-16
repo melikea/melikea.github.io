@@ -19,7 +19,7 @@ layout: default
 
 
 <div class="container">
-  <h2>Forward inclusion functions for ray-tracing implicit surfaces</h2>
+  <h2><strong>Forward inclusion functions for ray-tracing implicit surfaces</strong></h2>
   <h3>Melike Aydinlilar, Cédric Zanni</h3>
   <h3>Université de Lorraine, CNRS, Inria, LORIA</h3>
 
