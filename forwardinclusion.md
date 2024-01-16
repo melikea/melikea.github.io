@@ -21,7 +21,8 @@ layout: default
 <div class="container">
   <h2>Forward inclusion functions for ray-tracing implicit surfaces</h2>
   <h3>Melike Aydinlilar, Cédric Zanni</h3>
-
+[Preprint](../Preprint.pdf "download")
+  
 <img src="../img/web_teaser.png" height="250">
   
   <h3><strong>Abstract</strong></h3>
