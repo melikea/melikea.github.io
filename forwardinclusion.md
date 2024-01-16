@@ -24,6 +24,9 @@ layout: default
   
 [Preprint](../Preprint.pdf "download")
 [CV](/CV_Melike_Aydinlilar.pdf "download") 
+
+<a href="../Preprint.pdf" download="ForwardInclusionSMI2023">Preprint</a>
+
   
 <img src="../img/web_teaser.png" height="250">
   
