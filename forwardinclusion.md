@@ -3,14 +3,11 @@ title: ""
 permalink: /forwardinclusion/
 layout: page
 ---
-<link rel="stylesheet"
-        href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
-        
 <style type="text/css" media="screen">
   .container {
     margin: 10px auto;
-    max-width: 600px;
+    max-width: 1600px;
     text-align: center;
   }
   h1 {
@@ -20,8 +17,6 @@ layout: page
     letter-spacing: -1px;
   }
 </style>
-
-
 
 
 <div class="container">
