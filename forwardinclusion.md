@@ -20,7 +20,7 @@ layout: default
 
 <div class="container">
   <h2><strong>Forward inclusion functions for ray-tracing implicit surfaces</strong></h2>
-  <h3>Melike Aydinlilar, Cédric Zanni</h3>
+  <h3>[Melike Aydinlilar](https://melikea.github.io), [Cédric Zanni](https://members.loria.fr/CZanni/)</h3>
   <h3>Université de Lorraine, CNRS, Inria, LORIA</h3> 
   <h3>SMI 2023</h3>
 
