@@ -34,6 +34,11 @@ layout: default
 
 <img src="../img/tracing.png">
 
+
+<br><br>
+
+
+
 <section class="section" style="text-align:left" id="BibTeX">
       <h2  style="text-align:left">BibTeX</h2>
       <pre><code style="text-align:left">@article{aydinlilar23,
