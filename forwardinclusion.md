@@ -36,7 +36,9 @@ layout: default
 
 <br><br>
 
-<video controls autoplay>
+#responsive-vid {  width: 50%;  height: auto; } 
+
+<video  controls autoplay id="responsive-vid">
   <source src="../img/linear.mp4" type="video/mp4">
 https://www.shadertoy.com/view/DdtczB
 </video>
