@@ -15,6 +15,18 @@ layout: default
     line-height: 1;
     letter-spacing: -1px;
   }
+.wrapper {
+  width: 50%;
+  height: 100%;
+  overflow: hidden;
+}
+
+body, html {
+  height: 100%;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
 </style>
 
 
@@ -36,14 +48,15 @@ layout: default
 
 <br><br>
 
-<style>responsive-vid {  width: 50%;  height: auto; } </style>
 
-<video  controls autoplay id="responsive-vid">
-  <source src="../img/linear.mp4" type="video/mp4">
-https://www.shadertoy.com/view/DdtczB
-</video>
+<div class="wrapper">
+  <video class="videoInsert">
+  <source src="../img/linear.mp4"  type="video/mp4">
+  Your browser does not support the video tag.
+ </video>
+</div>
 
-<a href="https://www.w3schools.com/">www.shadertoy.com/view/DdtczB</a>
+<a href="www.shadertoy.com/view/DdtczB">www.shadertoy.com/view/DdtczB</a>
 
 
 <br><br>
