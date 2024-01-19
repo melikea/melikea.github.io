@@ -16,8 +16,8 @@ layout: default
     letter-spacing: -1px;
   }
 .wrapper {
-  width: 50%;
-  height: 50%;
+  width: 100px;
+  height: 100%;
   overflow: auto;
 
 </style>
