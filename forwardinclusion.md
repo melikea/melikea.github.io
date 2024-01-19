@@ -39,8 +39,8 @@ layout: default
 https://www.shadertoy.com/view/DdtczB
 </video>
 
+<a href="https://www.w3schools.com/">www.shadertoy.com/view/DdtczB</a>
 
-https://www.shadertoy.com/view/DdtczB
 
 <br><br>
 
