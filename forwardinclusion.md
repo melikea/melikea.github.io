@@ -35,7 +35,7 @@ layout: default
 <img src="../img/tracing.png">
 
 
-<video autoplay>
+<video controls autoplay>
   <source src="../linear.mp4" type="video/mp4">
 https://www.shadertoy.com/view/DdtczB
 </video>
