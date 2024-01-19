@@ -35,6 +35,12 @@ layout: default
 <img src="../img/tracing.png">
 
 
+<video w autoplay>
+  <source src="../linear.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+https://www.shadertoy.com/view/DdtczB
+
 <br><br>
 
 
