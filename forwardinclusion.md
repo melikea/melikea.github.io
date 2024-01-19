@@ -19,7 +19,7 @@ layout: default
   width: 100px;
   height: 100%;
   overflow: auto;
-
+  }
 </style>
 
 
