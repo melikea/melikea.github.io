@@ -17,16 +17,9 @@ layout: default
   }
 .wrapper {
   width: 50%;
-  height: 100%;
-  overflow: hidden;
-}
+  height: 50%;
+  overflow: auto;
 
-body, html {
-  height: 100%;
-  width: 50%;
-  padding: 0;
-  margin: 0;
-}
 </style>
 
 
