@@ -36,7 +36,7 @@ layout: default
 
 <br><br>
 
-#responsive-vid {  width: 50%;  height: auto; } 
+<style>responsive-vid {  width: 50%;  height: auto; } </style>
 
 <video  controls autoplay id="responsive-vid">
   <source src="../img/linear.mp4" type="video/mp4">
