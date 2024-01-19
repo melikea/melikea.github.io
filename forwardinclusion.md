@@ -15,11 +15,6 @@ layout: default
     line-height: 1;
     letter-spacing: -1px;
   }
-.wrapper {
-  width: 100px;
-  height: 100%;
-  overflow: auto;
-  }
 </style>
 
 
@@ -42,18 +37,14 @@ layout: default
 <br><br>
 
 
-<div class="wrapper">
-  <video class="videoInsert">
+  <video controls>
   <source src="../img/linear.mp4"  type="video/mp4">
   Your browser does not support the video tag.
  </video>
-</div>
 
 <a href="www.shadertoy.com/view/DdtczB">www.shadertoy.com/view/DdtczB</a>
 
-
 <br><br>
-
 
 
 <section class="section" style="text-align:left" id="BibTeX">
