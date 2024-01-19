@@ -42,7 +42,7 @@ layout: default
   Your browser does not support the video tag.
  </video>
 
-<a href="www.shadertoy.com/view/DdtczB">www.shadertoy.com/view/DdtczB</a>
+<a href="https://www.shadertoy.com/view/DdtczB" >www.shadertoy.com/view/DdtczB</a>
 
 <br><br>
 
