@@ -34,11 +34,12 @@ layout: default
 
 <img src="../img/tracing.png">
 
-
 <video controls autoplay>
-  <source src="../linear.mp4" type="video/mp4">
+  <source src="../img/linear.mp4" type="video/mp4">
 https://www.shadertoy.com/view/DdtczB
 </video>
+
+
 https://www.shadertoy.com/view/DdtczB
 
 <br><br>
