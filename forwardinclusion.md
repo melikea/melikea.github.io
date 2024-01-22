@@ -34,14 +34,17 @@ layout: default
 
 <img src="../img/tracing.png">
 
+Comparison of the root finding behavior for the given ray configuration for the top left scene with two blobs.
+
 <br><br>
 
 
-  <video controls>
-  <source src="../img/linear.mp4"  type="video/mp4">
-  Your browser does not support the video tag.
- </video>
+<video controls>
+<source src="../img/linear.mp4"  type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
+Video capture of the comparison between symmetric and asymmetric linear bounds, showing the improvement on the number of steps to converge to the surface. 
 <a href="https://www.shadertoy.com/view/DdtczB" >www.shadertoy.com/view/DdtczB</a>
 
 <br><br>
