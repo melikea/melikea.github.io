@@ -19,7 +19,7 @@ My main research interests are implicit surfaces, ray tracing and geometry proce
 
  [CV](/CV_Melike_Aydinlilar.pdf "download") 
 
-# Publications
+# Publications 
 [HAL](https://hal.archives-ouvertes.fr/) Listing:
 
 <iframe id="pubIFrame" frameborder="0" width="100%" height="600px" border="1" src="https://haltools.inria.fr/Public/afficheRequetePubli.php?auteur_exp=aydinlilar&CB_auteur=oui&CB_titre=oui&CB_article=oui&CB_vignette=oui&langue=Anglais&tri_exp=annee_publi&tri_exp2=typdoc&tri_exp3=date_publi&ordre_aff=TA&Fen=Aff&css=https://haltools.inria.fr/css/VisuGen.css)"></iframe>
