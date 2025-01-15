@@ -164,6 +164,8 @@ My main research interests are implicit surfaces, ray tracing and geometry proce
 <img alt= "./partbased.pdf" src="https://haltools.inria.fr/images/Haltools_pdf.png" border="0" title="./partbased.pdf" /></a>
 <span class="LienBibtexACoteFulltext"><a href="./partbased.txt" target="_self">
 <img alt="BibTex" src="https://haltools.inria.fr/images/Haltools_bibtex3.png" border="0"  title="BibTex" /></a>
+<a href="https://www.youtube.com/embed/c1tcX2VgJOk"  target="_blank">
+<img alt= "https://www.youtube.com/embed/c1tcX2VgJOk" src="./img/yt.png" border="0" title="https://www.youtube.com/embed/c1tcX2VgJOk" /></a>
 </span></dd>
 </dl>
 
@@ -174,7 +176,7 @@ My main research interests are implicit surfaces, ray tracing and geometry proce
 <dl class='NoticeResAvecVignette'>
 <dd class='Vignette'>
 <a href="./img/poster.png" target="_blank">
-<img class="VignetteImg" border="0" src="./img/postersmall.png" alt="" /></a></dd>
+<img class="VignetteImg" border="0" src="./img/poster_small.png" alt="" /></a></dd>
 <dt class="ChampResAvecVignette">titre</dt><dd class="ValeurResAvecVignette Titre"><a href="https://doi.org/10.2312/PG.20181292" target="_blank" >Shape Interpolation via Multiple Curves</a></dd>
 <dt class="ChampResAvecVignette">auteur</dt><dd class="ValeurResAvecVignette Auteurs">Melike Aydinlilar, Yusuf Sahillioğlu</dd> 
 <dt class="ChampResAvecVignette">article</dt><dd class="ValeurResAvecVignette article"><i>Pacific Graphics Posters</i> <a target="_blank" href="https://doi.org/10.2312/PG.20181292"></a></dd>
