@@ -1,0 +1,13 @@
+@article{AYDINLILAR2021103027,
+title = {Part-based data-driven 3D shape interpolation},
+journal = {Computer-Aided Design},
+volume = {136},
+pages = {103027},
+year = {2021},
+issn = {0010-4485},
+doi = {https://doi.org/10.1016/j.cad.2021.103027},
+url = {https://www.sciencedirect.com/science/article/pii/S0010448521000385},
+author = {Melike Aydınlılar and Yusuf Sahillioğlu},
+keywords = {3D shape interpolation, 3D shape morphing, Part-based, Data-driven},
+abstract = {An active problem in digital geometry processing is shape interpolation which aims to generate a continuous sequence of in-betweens for a given source and target shape. Unlike traditional approaches that interpolate source and target shapes in isolation, recent data-driven approaches utilize multiple interpolations through intermediate database shapes, and consequently perform better at the expense of a database requirement. In contrast to the existing data-driven approaches that consider intermediate shapes as full inseparable entities, our novel data-driven method treats the shapes as separable parts. In particular, we interpolate parts over different intermediate shapes and merge them all in the end, which brings more flexibility and variety than the existing ways of interpolating the full shape as a whole over one fixed set of intermediates. To be able to proceed consistently over different sets of intermediate shapes, we construct a unified framework based on parametric curves. We justify the two key points in the proposed method, interpolating parts separately and data-driven by curve parameterization, in the qualitative and quantitative evaluations. We demonstrate promising results in comparison with five other techniques. Our method morphs not only poses but also forms, e.g., turning one person to another. The results are improved further with a mild data augmentation procedure that is based on the original algorithm. As a side contribution, we provide a public articulated hand dataset with fixed connectivity, which can be used in the evaluation of other interpolation methods.}
+}
