@@ -164,8 +164,8 @@ My main research interests are implicit surfaces, ray tracing and geometry proce
 <img alt= "./partbased.pdf" src="https://haltools.inria.fr/images/Haltools_pdf.png" border="0" title="./partbased.pdf" /></a>
 <span class="LienBibtexACoteFulltext"><a href="./partbased.txt" target="_self">
 <img alt="BibTex" src="https://haltools.inria.fr/images/Haltools_bibtex3.png" border="0"  title="BibTex" /></a>
-<a href="https://www.youtube.com/embed/c1tcX2VgJOk"  target="_blank">
-<img alt= "https://www.youtube.com/embed/c1tcX2VgJOk" src="./img/yt.png" border="0" title="https://www.youtube.com/embed/c1tcX2VgJOk" /></a>
+<a href="https://www.youtube.com/watch?v=c1tcX2VgJOk"  target="_blank">
+<img alt= "https://www.youtube.com/watch?v=c1tcX2VgJOk" src="./img/yt.png" border="0" title="https://www.youtube.com/watch?v=c1tcX2VgJOk" /></a>
 </span></dd>
 </dl>
 
