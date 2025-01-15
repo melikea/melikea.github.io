@@ -157,7 +157,7 @@ My main research interests are implicit surfaces, ray tracing and geometry proce
 <img class="VignetteImg" border="0" src="./img/partbasedsmall.png" alt="" /></a></dd>
 <dt class="ChampResAvecVignette">titre</dt><dd class="ValeurResAvecVignette Titre"><a href="https://doi.org/10.1016/j.cad.2021.103027" target="_blank" >Part-based data-driven 3D shape interpolation</a></dd>
 <dt class="ChampResAvecVignette">auteur</dt><dd class="ValeurResAvecVignette Auteurs">Melike Aydinlilar, Yusuf Sahillioğlu</dd>
-<dt class="ChampResAvecVignette">article</dt><dd class="ValeurResAvecVignette article"><i>Computer-Aided Design</i>,2021,  136, 103027. <a target="_blank" href="https://doi.org/10.1016/j.cad.2021.103027</a></dd>
+<dt class="ChampResAvecVignette">article</dt><dd class="ValeurResAvecVignette article"><i>Computer-Aided Design</i>,2021,  136, 103027 <a target="_blank" href="https://doi.org/10.1016/j.cad.2021.103027"</a></dd>
 <dt class="ChampResAvecVignette">Accès au texte intégral et bibtex</dt>
 <dd class="ValeurResAvecVignette Fichier_joint">
 <a href="./partbased.pdf"  target="_blank">
