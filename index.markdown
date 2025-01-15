@@ -129,8 +129,8 @@ My main research interests are implicit surfaces, ray tracing and geometry proce
 <img alt="https://inria.hal.science/hal-03689606/file/Transparent%20rendering%20and%20slicing%20of%20integral%20surfaces%20using.pdf" src="https://haltools.inria.fr/images/Haltools_pdf.png" border="0" title="https://inria.hal.science/hal-03689606/file/Transparent%20rendering%20and%20slicing%20of%20integral%20surfaces%20using.pdf" /></a>
 <span class="LienBibtexACoteFulltext"><a href="https://inria.hal.science/hal-03689606v1/bibtex" target="_self">
 <img alt="BibTex" src="https://haltools.inria.fr/images/Haltools_bibtex3.png" border="0"  title="BibTex" /></a>
-<a href="https://www.youtube.com/watch?v=c1tcX2VgJOk"  target="_blank">
-<img alt= "https://www.youtube.com/watch?v=c1tcX2VgJOk" src="./img/yt.png" border="0" title="https://www.youtube.com/watch?v=c1tcX2VgJOk" /></a>
+<a href="https://www.youtube.com/watch?v=CFFOvIGC_YY"  target="_blank">
+<img alt= "https://www.youtube.com/watch?v=CFFOvIGC_YY" src="./img/yt.png" border="0" title="https://www.youtube.com/watch?v=CFFOvIGC_YY" /></a>
 </span></dd>
 </dl>
 
