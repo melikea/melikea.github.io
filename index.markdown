@@ -133,8 +133,8 @@ My main research interests are implicit surfaces, ray tracing and geometry proce
 <p class='SousRubrique'>Theses</p>
 <dl class='NoticeResAvecVignette'>
 <dd class='Vignette'>
-<a href="https://hal.univ-lorraine.fr/tel-04584706v1" target="_blank">
-<img class="VignetteImg" border="0" src="https://thumb.ccsd.cnrs.fr/9448770/thumb/little" alt="" /></a></dd>
+<a href="./img/thesis.png" target="_blank">
+<img class="VignetteImg" border="0" src="./img/thesis_small.png" alt="" /></a></dd>
 <dt class="ChampResAvecVignette">titre</dt><dd class="ValeurResAvecVignette Titre"><a href="https://hal.univ-lorraine.fr/tel-04584706v1" target="_blank" >Implicit modeling for additive manufacturing</a></dd>
 <dt class="ChampResAvecVignette">auteur</dt><dd class="ValeurResAvecVignette Auteurs">Melike Aydinlilar</dd>
 <dt class="ChampResAvecVignette">article</dt><dd class="ValeurResAvecVignette article">Computer Science [cs]. Université de Lorraine, 2023. English. <a target="_blank" href="https://www.theses.fr/2023LORR0336">&#x27E8;NNT : 2023LORR0336&#x27E9;</a></dd>
