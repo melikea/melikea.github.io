@@ -23,9 +23,10 @@ My main research interests are implicit surfaces, ray tracing and geometry proce
 
 # Publications 
 
-
+<!---
 <iframe id="pubIFrame" frameborder="0" width="100%" height="600px" border="1" src="https://haltools.inria.fr/Public/afficheRequetePubli.php?auteur_exp=aydinlilar&CB_auteur=oui&CB_titre=oui&CB_article=oui&CB_vignette=oui&langue=Anglais&tri_exp=annee_publi&tri_exp2=typdoc&tri_exp3=date_publi&ordre_aff=TA&Fen=Aff&css=https://haltools.inria.fr/css/VisuGen.css)"></iframe>
 
+--->
 
 
 
@@ -33,41 +34,6 @@ My main research interests are implicit surfaces, ray tracing and geometry proce
 <!---
 <iframe id="pubIFrame" frameborder="0" width="100%" height="600px" border="1" src="hal.html" ></iframe>
 --->
-
-
-|[<img src="./img/partbasedsmall.png " width="100%">](./img/partbased.png )| Aydınlılar, M., & Sahillioğlu, Y. (2021). Part-based data-driven 3D shape interpolation. Computer-Aided Design, 136, 103027. [https://doi.org/10.1016/j.cad.2021.103027](https://doi.org/10.1016/j.cad.2021.103027)|
-
-|Sahillioglu, Y., & Aydinlilar, M. (2018). Shape Interpolation via Multiple Curves. Pacific Graphics Posters. [https://doi.org/10.2312/PG.20181292](https://doi.org/10.2312/PG.20181292)|
-
-<iframe
-    width="480"
-    height="360"
-    src="https://www.youtube.com/embed/l3Tx99HHBzg?mute=1"
-    frameborder="0"
-    allow="autoplay; encrypted-media"
-    allowfullscreen
->
-</iframe>
-
-<iframe
-    width="480"
-    height="360"
-    src="https://www.youtube.com/embed/CFFOvIGC_YY?mute=1"
-    frameborder="0"
-    allow="autoplay; encrypted-media"
-    allowfullscreen
->
-</iframe>
-
-<iframe
-    width="480"
-    height="360"
-    src="https://www.youtube.com/embed/c1tcX2VgJOk"
-    frameborder="0"
-    allow="autoplay; encrypted-media"
-    allowfullscreen
->
-</iframe>
 
 
 
@@ -191,6 +157,44 @@ My main research interests are implicit surfaces, ray tracing and geometry proce
    
     
 </head>
+
+
+|[<img src="./img/partbasedsmall.png " width="100%">](./img/partbased.png )| Aydınlılar, M., & Sahillioğlu, Y. (2021). Part-based data-driven 3D shape interpolation. Computer-Aided Design, 136, 103027. [https://doi.org/10.1016/j.cad.2021.103027](https://doi.org/10.1016/j.cad.2021.103027)|
+
+|Sahillioglu, Y., & Aydinlilar, M. (2018). Shape Interpolation via Multiple Curves. Pacific Graphics Posters. [https://doi.org/10.2312/PG.20181292](https://doi.org/10.2312/PG.20181292)|
+
+<iframe
+    width="480"
+    height="360"
+    src="https://www.youtube.com/embed/l3Tx99HHBzg?mute=1"
+    frameborder="0"
+    allow="autoplay; encrypted-media"
+    allowfullscreen
+>
+</iframe>
+
+<iframe
+    width="480"
+    height="360"
+    src="https://www.youtube.com/embed/CFFOvIGC_YY?mute=1"
+    frameborder="0"
+    allow="autoplay; encrypted-media"
+    allowfullscreen
+>
+</iframe>
+
+<iframe
+    width="480"
+    height="360"
+    src="https://www.youtube.com/embed/c1tcX2VgJOk"
+    frameborder="0"
+    allow="autoplay; encrypted-media"
+    allowfullscreen
+>
+</iframe>
+
+
+
 
 
 
