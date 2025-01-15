@@ -180,8 +180,8 @@ My main research interests are implicit surfaces, ray tracing and geometry proce
 <dt class="ChampResAvecVignette">article</dt><dd class="ValeurResAvecVignette article"><i>Pacific Graphics Posters</i> <a target="_blank" href="https://doi.org/10.2312/PG.20181292"></a></dd>
 <dt class="ChampResAvecVignette">Accès au texte intégral et bibtex</dt>
 <dd class="ValeurResAvecVignette Fichier_joint">
-<a href="./poster"  target="_blank">
-<img alt= "./poster.pdf" src="./poster.pdf" border="0" title="./poster" /></a>
+<a href="./poster.pdf"  target="_blank">
+<img alt= "./poster.pdf" src="./poster.pdf" border="0" title="./poster.pdf" /></a>
 <span class="LienBibtexACoteFulltext"><a href="./poster.txt" target="_self">
 <img alt="BibTex" src="https://haltools.inria.fr/images/Haltools_bibtex3.png" border="0"  title="BibTex" /></a>
 </span></dd>
