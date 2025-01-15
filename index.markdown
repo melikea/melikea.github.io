@@ -112,7 +112,7 @@ My main research interests are implicit surfaces, ray tracing and geometry proce
 <dl class='NoticeResAvecVignette'>
 <dd class='Vignette'>
 <a href="https://inria.hal.science/hal-04129922v2" target="_blank">
-<img class="VignetteImg" border="0" src="./img/thesis.png" alt="" /></a></dd>
+<img class="VignetteImg" border="0" src="https://thumb.ccsd.cnrs.fr/9448770/thumb/little" alt="" /></a></dd>
 <dt class="ChampResAvecVignette">titre</dt><dd class="ValeurResAvecVignette Titre"><a href="https://inria.hal.science/hal-04129922v2" target="_blank" >Forward inclusion functions for ray-tracing implicit surfaces</a></dd>
 <dt class="ChampResAvecVignette">auteur</dt><dd class="ValeurResAvecVignette Auteurs">Melike Aydinlilar, Cédric Zanni</dd>
 <dt class="ChampResAvecVignette">article</dt><dd class="ValeurResAvecVignette article"><i>Computers and Graphics</i>, 2023, 114, pp.190-200. <a target="_blank" href="https://dx.doi.org/10.1016/j.cag.2023.05.026">&#x27E8;10.1016/j.cag.2023.05.026&#x27E9;</a></dd>
