@@ -131,6 +131,8 @@ My main research interests are implicit surfaces, ray tracing and geometry proce
 <img alt="BibTex" src="https://haltools.inria.fr/images/Haltools_bibtex3.png" border="0"  title="BibTex" /></a>
 </span></dd>
 </dl>
+
+
 <p class='Rubrique'>2021</p>
 <p class='SousRubrique'>Journal articles</p>
 <dl class='NoticeResAvecVignette'>
@@ -147,23 +149,22 @@ My main research interests are implicit surfaces, ray tracing and geometry proce
 <span class="LienBibtexACoteFulltext"><a href="https://inria.hal.science/hal-03169283v1/bibtex" target="_self">
 <img alt="BibTex" src="https://haltools.inria.fr/images/Haltools_bibtex3.png" border="0"  title="BibTex" /></a>
 </span></dd>
-
+</dl>
 
 <dl class='NoticeResAvecVignette'>
 <dd class='Vignette'>
 <a href="" target="_blank">
-<img class="VignetteImg" border="0" src="./img/partbasedsmall.png" alt="./img/partbaseds.png" /></a></dd>
+<img class="VignetteImg" border="0" src="./img/partbasedsmall.png" alt="./img/partbased.png" /></a></dd>
 <dt class="ChampResAvecVignette">titre</dt><dd class="ValeurResAvecVignette Titre"><a href="https://doi.org/10.1016/j.cad.2021.103027" target="_blank" >Part-based data-driven 3D shape interpolation</a></dd>
 <dt class="ChampResAvecVignette">auteur</dt><dd class="ValeurResAvecVignette Auteurs">Melike Aydinlilar, Yusuf Sahillioğlu</dd>
 <dt class="ChampResAvecVignette">article</dt><dd class="ValeurResAvecVignette article"><i>Computer-Aided Design</i>,2021,  136, 103027. <a target="_blank" href="https://doi.org/10.1016/j.cad.2021.103027</a></dd>
 <dt class="ChampResAvecVignette">Accès au texte intégral et bibtex</dt>
 <dd class="ValeurResAvecVignette Fichier_joint">
-<a href="https://inria.hal.science/hal-03169283/file/RaytracingSCALIS_Master.pdf"  target="_blank">
-<img alt="https://inria.hal.science/hal-03169283/file/RaytracingSCALIS_Master.pdf" src="https://haltools.inria.fr/images/Haltools_pdf.png" border="0" title="https://inria.hal.science/hal-03169283/file/RaytracingSCALIS_Master.pdf" /></a>
+<a href="./partbased.pdf"  target="_blank">
+<img alt= ./partbased.pdf" src="https://haltools.inria.fr/images/Haltools_pdf.png" border="0" title="/partbased.pdf" /></a>
 <span class="LienBibtexACoteFulltext"><a href="./partbased.bib" target="_self">
 <img alt="BibTex" src="https://haltools.inria.fr/images/Haltools_bibtex3.png" border="0"  title="BibTex" /></a>
 </span></dd>
- 
 </dl>
 
 </div>
