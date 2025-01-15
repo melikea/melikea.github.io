@@ -162,7 +162,7 @@ My main research interests are implicit surfaces, ray tracing and geometry proce
 <dd class="ValeurResAvecVignette Fichier_joint">
 <a href="./partbased.pdf"  target="_blank">
 <img alt= "./partbased.pdf" src="https://haltools.inria.fr/images/Haltools_pdf.png" border="0" title="./partbased.pdf" /></a>
-<span class="LienBibtexACoteFulltext"><a href="./partbased.bib" target="_self">
+<span class="LienBibtexACoteFulltext"><a href="./partbased.txt" target="_self">
 <img alt="BibTex" src="https://haltools.inria.fr/images/Haltools_bibtex3.png" border="0"  title="BibTex" /></a>
 </span></dd>
 </dl>
@@ -181,7 +181,7 @@ My main research interests are implicit surfaces, ray tracing and geometry proce
 <dt class="ChampResAvecVignette">Accès au texte intégral et bibtex</dt>
 <dd class="ValeurResAvecVignette Fichier_joint">
 <a href="./poster.pdf"  target="_blank">
-<img alt= "./poster.pdf" src="./poster.pdf" border="0" title="./poster.pdf" /></a>
+<img alt= "./poster.pdf" src="https://haltools.inria.fr/images/Haltools_pdf.png" border="0" title="./poster.pdf" /></a>
 <span class="LienBibtexACoteFulltext"><a href="./poster.txt" target="_self">
 <img alt="BibTex" src="https://haltools.inria.fr/images/Haltools_bibtex3.png" border="0"  title="BibTex" /></a>
 </span></dd>
