@@ -107,23 +107,6 @@ My main research interests are implicit surfaces, ray tracing and geometry proce
 </head>
 <body>
 <div id="res_script">
-<p class='Rubrique'>2024</p>
-<p class='SousRubrique'>Book sections</p>
-<dl class='NoticeResAvecVignette'>
-<dd class='Vignette'>
-<a href="https://hal.univ-lorraine.fr/hal-04518973v1" target="_blank">
-<img class="VignetteImg" border="0" src="https://thumb.ccsd.cnrs.fr/9414883/thumb/little" alt="" /></a></dd>
-<dt class="ChampResAvecVignette">titre</dt><dd class="ValeurResAvecVignette Titre"><a href="https://hal.univ-lorraine.fr/hal-04518973v1" target="_blank" >CAPTCH'YOU</a></dd>
-<dt class="ChampResAvecVignette">auteur</dt><dd class="ValeurResAvecVignette Auteurs">Melike Aydinlilar, Alaaeddine Chaoub, Kelvin Han, Florian Marchal</dd>
-<dt class="ChampResAvecVignette">article</dt><dd class="ValeurResAvecVignette article"><i>THINK BEFORE LOADING</i>, <a target="_blank" href="https://thinkbeforeloading.loria.fr"></a>, 2024, 978-2-9591975-0-5</dd>
-<dt class="ChampResAvecVignette">Accès au texte intégral et bibtex</dt>
-<dd class="ValeurResAvecVignette Fichier_joint">
-<a href="https://hal.univ-lorraine.fr/hal-04518973/file/DYSTOPIES_CAPTCHYOU.pdf"  target="_blank">
-<img alt="https://hal.univ-lorraine.fr/hal-04518973/file/DYSTOPIES_CAPTCHYOU.pdf" src="https://haltools.inria.fr/images/Haltools_pdf.png" border="0" title="https://hal.univ-lorraine.fr/hal-04518973/file/DYSTOPIES_CAPTCHYOU.pdf" /></a>
-<span class="LienBibtexACoteFulltext"><a href="https://hal.univ-lorraine.fr/hal-04518973v1/bibtex" target="_self">
-<img alt="BibTex" src="https://haltools.inria.fr/images/Haltools_bibtex3.png" border="0"  title="BibTex" /></a>
-</span></dd>
-</dl>
 <p class='Rubrique'>2023</p>
 <p class='SousRubrique'>Journal articles</p>
 <dl class='NoticeResAvecVignette'>
