@@ -1,0 +1,11 @@
+@inproceedings{10.2312:pg.20181292,
+booktitle = {Pacific Graphics Posters},
+editor = {Fu, Hongbo and Ghosh, Abhijeet and Kopf, Johannes},
+title = {{Shape Interpolation via Multiple Curves}},
+author = {Sahillioglu, Yusuf and Aydinlilar, Melike},
+year = {2018},
+publisher = {The Eurographics Association},
+ISBN = {978-3-03868-074-1},
+DOI = {10.2312/pg.20181292}
+}
+        
