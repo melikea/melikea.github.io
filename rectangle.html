@@ -62,7 +62,7 @@
                 drawRectangle(); // Clear previous click
                 snapshot.forEach(doc => {
                     let data = doc.data();
-                    ctx.fillStyle = "red";
+                    ctx.fillStyle = "black";
                     ctx.beginPath();
                     ctx.arc(data.x, data.y, 5, 0, Math.PI * 2);
                     ctx.fill();
