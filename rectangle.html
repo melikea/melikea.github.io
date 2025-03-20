@@ -63,7 +63,13 @@
             const y = event.clientY - rect.top;
 
             if (x >= rectX && x <= rectX + rectWidth && y >= rectY && y <= rectY + rectHeight) {
+                ctx.fillStyle = "black";
+                ctx.beginPath();
+                ctx.arc(x, y, 5, 0, Math.PI * 2);
+                ctx.fill();
+                
                 saveClick(x, y);
+                
             }
         });
 
