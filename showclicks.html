@@ -12,7 +12,7 @@
 <body>
 
     <h2>Saved Clicks</h2>
-    <canvas id="myCanvas" width="500" height="300"></canvas>
+    <canvas id="myCanvas" width="700" height="500"></canvas>
     <p>All clicks are displayed in real-time.</p>
 
     <!-- 🚀 New "Clear Clicks" Button -->
@@ -40,7 +40,7 @@
         const canvas = document.getElementById("myCanvas");
         const ctx = canvas.getContext("2d");
 
-        const rectX = 100, rectY = 50, rectWidth = 300, rectHeight = 200;
+        const rectX = 100, rectY = 50, rectWidth = 500, rectHeight = 300;
 
         function drawRectangle() {
             ctx.clearRect(0, 0, canvas.width, canvas.height);
