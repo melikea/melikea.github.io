@@ -36,7 +36,8 @@
 
         console.log("Firebase initialized:", firebase);
         console.log("Firestore instance:", db);
-        
+
+        let hasClicked = false;
         const canvas = document.getElementById("myCanvas");
         const ctx = canvas.getContext("2d");
 
@@ -58,6 +59,7 @@
         }
             
         canvas.addEventListener("click", function(event) {
+            if (hasClicked) return; 
             const rect = canvas.getBoundingClientRect();
             const x = event.clientX - rect.left;
             const y = event.clientY - rect.top;
@@ -67,13 +69,13 @@
                 ctx.beginPath();
                 ctx.arc(x, y, 5, 0, Math.PI * 2);
                 ctx.fill();
-                
-                saveClick(x, y);
-                
+                saveClick(x, y);  
+                hasClicked = true;
             }
         });
 
         drawRectangle();
+        
     </script>
 
 </body>
