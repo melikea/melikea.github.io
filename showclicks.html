@@ -61,12 +61,7 @@
                 });
             });
         }
-        <!-- 🚀 New "Clear Clicks" Button -->
-
-        drawRectangle();
-        loadClicks(); // Load all saved clicks
-    </script>
-    document.getElementById("clear-clicks").addEventListener("click", function() {
+        document.getElementById("clear-clicks").addEventListener("click", function() {
             db.collection("clicks").get().then((querySnapshot) => {
                 querySnapshot.forEach((doc) => {
                     doc.ref.delete();
@@ -75,5 +70,10 @@
                 alert("All saved clicks have been cleared!");
             }).catch(error => console.error("Error clearing clicks:", error));
         });
+        
+        drawRectangle();
+        loadClicks(); // Load all saved clicks
+    </script>
+   
 </body>
 </html>
