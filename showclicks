@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>View Saved Clicks</title>
+    <style>
+        body { text-align: center; font-family: Arial, sans-serif; }
+        canvas { border: 2px solid black; }
+    </style>
+</head>
+<body>
+
+    <h2>Saved Clicks</h2>
+    <canvas id="myCanvas" width="500" height="300"></canvas>
+    <p>All clicks are displayed in real-time.</p>
+
+    <!-- Firebase SDK -->
+    <script src="https://www.gstatic.com/firebasejs/10.7.2/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/10.7.2/firebase-firestore.js"></script>
+
+    <script>
+        // 🔹 Replace with your Firebase config
+        const firebaseConfig = {
+            apiKey: "YOUR_API_KEY",
+            authDomain: "YOUR_PROJECT_ID.firebaseapp.com",
+            projectId: "YOUR_PROJECT_ID",
+            storageBucket: "YOUR_PROJECT_ID.appspot.com",
+            messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
+            appId: "YOUR_APP_ID"
+        };
+
+        // 🔹 Initialize Firebase
+        firebase.initializeApp(firebaseConfig);
+        const db = firebase.firestore();
+
+        const canvas = document.getElementById("myCanvas");
+        const ctx = canvas.getContext("2d");
+
+        const rectX = 100, rectY = 50, rectWidth = 300, rectHeight = 200;
+
+        function drawRectangle() {
+            ctx.clearRect(0, 0, canvas.width, canvas.height);
+            ctx.fillStyle = "lightblue";
+            ctx.fillRect(rectX, rectY, rectWidth, rectHeight);
+            ctx.strokeRect(rectX, rectY, rectWidth, rectHeight);
+        }
+
+        function loadClicks() {
+            db.collection("clicks").orderBy("timestamp", "asc").onSnapshot(snapshot => {
+                drawRectangle();
+                snapshot.forEach(doc => {
+                    let data = doc.data();
+                    ctx.fillStyle = "red";
+                    ctx.beginPath();
+                    ctx.arc(data.x, data.y, 5, 0, Math.PI * 2);
+                    ctx.fill();
+                });
+            });
+        }
+
+        drawRectangle();
+        loadClicks(); // Load all saved clicks
+    </script>
+
+</body>
+</html>
