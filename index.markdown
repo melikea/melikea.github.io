@@ -11,7 +11,7 @@ layout: home
 
 I am a post-doctoral researcher at [Inria Centre at Université Côte d'Azur](https://www.inria.fr/en/inria-centre-universite-cote-azur) at [GraphDeco](https://team.inria.fr/graphdeco/) team.
 
-Before, I was a PhD student at [Inria Nancy](https://www.inria.fr/en/centre-inria-nancy-grand-est) at [MFX](https://mfx.loria.fr/) team. 
+Before, I was a PhD student at [Inria Centre at Université de Lorraine](https://www.inria.fr/en/inria-centre-universite-lorraine) at [MFX](https://mfx.loria.fr/) team. 
 
 My PhD project is titled *Implicit modeling for additive manufacturing* at [Université de Lorraine](https://www.univ-lorraine.fr/) advised by [Cédric Zanni](https://members.loria.fr/CZanni/) and [Sylvain Lefebvre](https://www.antexel.com/sylefeb/research). 
 
