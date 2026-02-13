@@ -52,7 +52,6 @@ My main research interests are implicit surfaces, ray tracing and geometry proce
 <link rel="stylesheet" type="text/css" href="style.css" />
 <link rel="stylesheet" type="text/css" href="style.css">
 
-<link rel="stylesheet" type="text/css" href="style.css")&quot;&gt;&lt;/iframe&gt;" />
 <!-- Piwik haltools.inria.fr-->
 <script type="text/javascript">
   var _paq = _paq || [];
@@ -88,9 +87,9 @@ My main research interests are implicit surfaces, ray tracing and geometry proce
 <dt class="ChampResAvecVignette">Accès au texte intégral et bibtex</dt>
 <dd class="ValeurResAvecVignette Fichier_joint">
 <a href="https://inria.hal.science/hal-04129922/file/Preprint-2.pdf"  target="_blank">
-<img alt="https://inria.hal.science/hal-04129922/file/Preprint-2.pdf" src="https://haltools.inria.fr/images/Haltools_pdf.png" border="0" title="https://inria.hal.science/hal-04129922/file/Preprint-2.pdf" /></a>
+<img alt="https://inria.hal.science/hal-04129922/file/Preprint-2.pdf" src="pdf.png" border="0" title="https://inria.hal.science/hal-04129922/file/Preprint-2.pdf" /></a>
 <span class="LienBibtexACoteFulltext"><a href="https://inria.hal.science/hal-04129922v2/bibtex" target="_self">
-<img alt="BibTex" src="https://haltools.inria.fr/images/Haltools_bibtex3.png" border="0"  title="BibTex" /></a>
+<img alt="BibTex" src="bibtex.png" border="0"  title="BibTex" /></a>
 </span></dd>
 </dl>
 
@@ -107,9 +106,9 @@ My main research interests are implicit surfaces, ray tracing and geometry proce
 <dt class="ChampResAvecVignette">Accès au texte intégral et bibtex</dt>
 <dd class="ValeurResAvecVignette Fichier_joint">
 <a href="https://hal.univ-lorraine.fr/tel-04584706/file/DDOC_T_2023_0336_AYDINLILAR.pdf"  target="_blank">
-<img alt="https://hal.univ-lorraine.fr/tel-04584706/file/DDOC_T_2023_0336_AYDINLILAR.pdf" src="https://haltools.inria.fr/images/Haltools_pdf.png" border="0" title="https://hal.univ-lorraine.fr/tel-04584706/file/DDOC_T_2023_0336_AYDINLILAR.pdf" /></a>
+<img alt="https://hal.univ-lorraine.fr/tel-04584706/file/DDOC_T_2023_0336_AYDINLILAR.pdf" src="pdf.png" border="0" title="https://hal.univ-lorraine.fr/tel-04584706/file/DDOC_T_2023_0336_AYDINLILAR.pdf" /></a>
 <span class="LienBibtexACoteFulltext"><a href="https://hal.univ-lorraine.fr/tel-04584706v1/bibtex" target="_self">
-<img alt="BibTex" src="https://haltools.inria.fr/images/Haltools_bibtex3.png" border="0"  title="BibTex" /></a>
+<img alt="BibTex" src="bibtex.png" border="0"  title="BibTex" /></a>
 </span></dd>
 </dl>
 
@@ -126,9 +125,9 @@ My main research interests are implicit surfaces, ray tracing and geometry proce
 <dt class="ChampResAvecVignette">Accès au texte intégral et bibtex</dt>
 <dd class="ValeurResAvecVignette Fichier_joint">
 <a href="https://inria.hal.science/hal-03689606/file/Transparent%20rendering%20and%20slicing%20of%20integral%20surfaces%20using.pdf"  target="_blank">
-<img alt="https://inria.hal.science/hal-03689606/file/Transparent%20rendering%20and%20slicing%20of%20integral%20surfaces%20using.pdf" src="https://haltools.inria.fr/images/Haltools_pdf.png" border="0" title="https://inria.hal.science/hal-03689606/file/Transparent%20rendering%20and%20slicing%20of%20integral%20surfaces%20using.pdf" /></a>
+<img alt="https://inria.hal.science/hal-03689606/file/Transparent%20rendering%20and%20slicing%20of%20integral%20surfaces%20using.pdf" src="pdf.png" border="0" title="https://inria.hal.science/hal-03689606/file/Transparent%20rendering%20and%20slicing%20of%20integral%20surfaces%20using.pdf" /></a>
 <span class="LienBibtexACoteFulltext"><a href="https://inria.hal.science/hal-03689606v1/bibtex" target="_self">
-<img alt="BibTex" src="https://haltools.inria.fr/images/Haltools_bibtex3.png" border="0"  title="BibTex" /></a>
+<img alt="BibTex" src="bibtex.png" border="0"  title="BibTex" /></a>
 <a href="https://www.youtube.com/watch?v=CFFOvIGC_YY"  target="_blank">
 <img alt= "https://www.youtube.com/watch?v=CFFOvIGC_YY" src="./img/yt.png" border="0" title="https://www.youtube.com/watch?v=CFFOvIGC_YY" /></a>
 </span></dd>
@@ -147,9 +146,9 @@ My main research interests are implicit surfaces, ray tracing and geometry proce
 <dt class="ChampResAvecVignette">Accès au texte intégral et bibtex</dt>
 <dd class="ValeurResAvecVignette Fichier_joint">
 <a href="https://inria.hal.science/hal-03169283/file/RaytracingSCALIS_Master.pdf"  target="_blank">
-<img alt="https://inria.hal.science/hal-03169283/file/RaytracingSCALIS_Master.pdf" src="https://haltools.inria.fr/images/Haltools_pdf.png" border="0" title="https://inria.hal.science/hal-03169283/file/RaytracingSCALIS_Master.pdf" /></a>
+<img alt="https://inria.hal.science/hal-03169283/file/RaytracingSCALIS_Master.pdf" src="pdf.png" border="0" title="https://inria.hal.science/hal-03169283/file/RaytracingSCALIS_Master.pdf" /></a>
 <span class="LienBibtexACoteFulltext"><a href="https://inria.hal.science/hal-03169283v1/bibtex" target="_self">
-<img alt="BibTex" src="https://haltools.inria.fr/images/Haltools_bibtex3.png" border="0"  title="BibTex" /></a>
+<img alt="BibTex" src="bibtex.png" border="0"  title="BibTex" /></a>
 <a href="https://www.youtube.com/watch?v=l3Tx99HHBzg"  target="_blank">
 <img alt= "https://www.youtube.com/watch?v=l3Tx99HHBzg" src="./img/yt.png" border="0" title="https://www.youtube.com/watch?v=l3Tx99HHBzg" /></a>
 </span></dd>
@@ -165,9 +164,9 @@ My main research interests are implicit surfaces, ray tracing and geometry proce
 <dt class="ChampResAvecVignette">Accès au texte intégral et bibtex</dt>
 <dd class="ValeurResAvecVignette Fichier_joint">
 <a href="./partbased.pdf"  target="_blank">
-<img alt= "./partbased.pdf" src="https://haltools.inria.fr/images/Haltools_pdf.png" border="0" title="./partbased.pdf" /></a>
+<img alt= "./partbased.pdf" src="pdf.png" border="0" title="./partbased.pdf" /></a>
 <span class="LienBibtexACoteFulltext"><a href="./partbased.txt" target="_self">
-<img alt="BibTex" src="https://haltools.inria.fr/images/Haltools_bibtex3.png" border="0"  title="BibTex" /></a>
+<img alt="BibTex" src="bibtex.png" border="0"  title="BibTex" /></a>
 <a href="https://www.youtube.com/watch?v=c1tcX2VgJOk"  target="_blank">
 <img alt= "https://www.youtube.com/watch?v=c1tcX2VgJOk" src="./img/yt.png" border="0" title="https://www.youtube.com/watch?v=c1tcX2VgJOk" /></a>
 </span></dd>
@@ -187,9 +186,9 @@ My main research interests are implicit surfaces, ray tracing and geometry proce
 <dt class="ChampResAvecVignette">Accès au texte intégral et bibtex</dt>
 <dd class="ValeurResAvecVignette Fichier_joint">
 <a href="./poster.pdf"  target="_blank">
-<img alt= "./poster.pdf" src="https://haltools.inria.fr/images/Haltools_pdf.png" border="0" title="./poster.pdf" /></a>
+<img alt= "./poster.pdf" src="pdf.png" border="0" title="./poster.pdf" /></a>
 <span class="LienBibtexACoteFulltext"><a href="./poster.txt" target="_self">
-<img alt="BibTex" src="https://haltools.inria.fr/images/Haltools_bibtex3.png" border="0"  title="BibTex" /></a>
+<img alt="BibTex" src="bibtex.png" border="0"  title="BibTex" /></a>
 </span></dd>
 </dl>
 
