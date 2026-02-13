@@ -49,10 +49,10 @@ My main research interests are implicit surfaces, ray tracing and geometry proce
 <meta name="robots" content="noindex, nofollow" />
 <meta http-equiv="content-type" content= "text/html;charset=UTF-8" />
 <meta http-equiv="Content-Language" content="fr" />
-<link rel="stylesheet" type="text/css" href="../css/VisuGen.css" />
-<link rel="stylesheet" type="text/css" href="https://haltools.inria.fr/css/VisuGen.css">
+<link rel="stylesheet" type="text/css" href="style.css" />
+<link rel="stylesheet" type="text/css" href="style.css">
 
-<link rel="stylesheet" type="text/css" href="https://haltools.inria.fr/css/VisuGen.css)&quot;&gt;&lt;/iframe&gt;" />
+<link rel="stylesheet" type="text/css" href="style.css")&quot;&gt;&lt;/iframe&gt;" />
 <!-- Piwik haltools.inria.fr-->
 <script type="text/javascript">
   var _paq = _paq || [];
