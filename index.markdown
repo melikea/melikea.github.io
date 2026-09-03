@@ -9,7 +9,7 @@ layout: home
 [//]: <img src="./img/eg_short.jpg " height="200"> 
 [//]: <img src="./img/eg2.jpg " height="200"> 
 
-I am an assistant professor at [Computer Engineering](https://ceng.iyte.edu.tr/) department at [İzmir Institute of Technology](https://iyte.edu.tr/).
+I am an assistant professor at [Computer Engineering](https://ceng.iyte.edu.tr/) department at [İzmir Yüksek Teknoloji Enstitüsü](https://iyte.edu.tr/).
 
 Before, I am a post-doctoral researcher at [Inria Centre at Université Côte d'Azur](https://www.inria.fr/en/inria-centre-universite-cote-azur) at [GraphDeco](https://team.inria.fr/graphdeco/) team.
 
