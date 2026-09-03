@@ -117,7 +117,7 @@ My main research interests are implicit surfaces, ray tracing and geometry proce
 <p class='SousRubrique'>Conference papers</p>
 <dl class='NoticeResAvecVignette'>
 <dd class='Vignette'>
-<a href="https://inria.hal.science/hal-03689606/file/representative_image.jpg" target="_blank">
+<a href="img/representative_image.jpg" target="_blank">
 <img class="VignetteImg" border="0" src="https://thumb.ccsd.cnrs.fr/9039926/thumb/little" alt="representative_image.jpg" /></a></dd>
 <dt class="ChampResAvecVignette">titre</dt><dd class="ValeurResAvecVignette Titre"><a href="https://inria.hal.science/hal-03689606v1" target="_blank" >Transparent rendering and slicing of integral surfaces using per-primitive interval arithmetic</a></dd>
 <dt class="ChampResAvecVignette">auteur</dt><dd class="ValeurResAvecVignette Auteurs">Melike Aydinlilar, Cédric Zanni</dd>
