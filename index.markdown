@@ -138,7 +138,7 @@ My main research interests are implicit surfaces, ray tracing and geometry proce
 <p class='SousRubrique'>Journal articles</p>
 <dl class='NoticeResAvecVignette'>
 <dd class='Vignette'>
-<a href="https://inria.hal.science/hal-03169283/file/scalis.jpg" target="_blank">
+<a href="./img/scalis.jpg" target="_blank">
 <img class="VignetteImg" border="0" src="https://thumb.ccsd.cnrs.fr/8833275/thumb/little" alt="scalis.jpg" /></a></dd>
 <dt class="ChampResAvecVignette">titre</dt><dd class="ValeurResAvecVignette Titre"><a href="https://inria.hal.science/hal-03169283v1" target="_blank" >Fast ray tracing of scale-invariant integral surfaces</a></dd>
 <dt class="ChampResAvecVignette">auteur</dt><dd class="ValeurResAvecVignette Auteurs">Melike Aydinlilar, Cédric Zanni</dd>
