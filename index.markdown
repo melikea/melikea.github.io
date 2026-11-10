@@ -11,7 +11,7 @@ layout: home
 
 I am an assistant professor at [Computer Engineering](https://ceng.iyte.edu.tr/) department at [İzmir Yüksek Teknoloji Enstitüsü](https://iyte.edu.tr/).
 
-Before, I am a post-doctoral researcher at [Inria Centre at Université Côte d'Azur](https://www.inria.fr/en/inria-centre-universite-cote-azur) at [GraphDeco](https://team.inria.fr/graphdeco/) team.
+Before, I was a post-doctoral researcher at [Inria Centre at Université Côte d'Azur](https://www.inria.fr/en/inria-centre-universite-cote-azur) at [GraphDeco](https://team.inria.fr/graphdeco/) team.
 
 Before that, I was a PhD student at [Inria Centre at Université de Lorraine](https://www.inria.fr/en/inria-centre-universite-lorraine) at [MFX](https://mfx.loria.fr/) team. 
 
